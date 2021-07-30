@@ -33,6 +33,9 @@
   <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AhmadrezaMozaffary&show_icons=true&hide_border=true" />
 </details>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadrezaMozaffary&layout=compact)](https://github.com/AhmadrezaMozaffary/github-readme-stats)
+
+
 [tech]: #
 [instagram]: https://instagram.com/ahmad_mozaffary
 [linkedin]: https://linkedin.com/in/ahmadreza-mozaffary
