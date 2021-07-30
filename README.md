@@ -1,12 +1,12 @@
-### Hi there, I'm Ahmadreza Mozaffary 👋
+#### Hi there, I'm Ahmadreza Mozaffary 👋
 
-## I'm a Student🥳, Maybe a Developer🤪, and Technology lover😎!
+### I'm a Student🥳, Maybe a Developer🤪, and Technology lover😎!
 
 - 🌱 I’m currently learning JavaScript 
 - 🥅 2021 Goals: Learn basics of front-end development
 - ⚡ Fun fact: I love to listen musics and watch coding live streams
 
-### Connect with me 📲:
+#### Connect with me 📲:
 
 <!-- [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -14,7 +14,7 @@
 
 <br />
 
-### Languages and Tools:
+#### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][tech]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][tech]
@@ -34,5 +34,5 @@
 </details>
 
 [tech]: #
-[instagram]: https://instagram.com/ahmad-mozaffary
+[instagram]: https://instagram.com/ahmad_mozaffary
 [linkedin]: https://linkedin.com/in/ahmadreza-mozaffary
