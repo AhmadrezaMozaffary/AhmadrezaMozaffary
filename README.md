@@ -3,7 +3,7 @@
 ### I'm a Student🥳, Maybe a Developer🤪, and Technology lover😎!
 
 - 🌱 I’m currently learning JavaScript 
-- 🥅 2022 Goals: I wanna become a "junior" front-end developer
+- 🥅 2022 Goal: I wanna become a "junior" front-end developer
 - ⚡ Fun fact: I love to listen musics and watch coding live streams
 
 #### Connect with me 📲:
