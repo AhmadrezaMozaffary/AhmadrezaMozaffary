@@ -1,41 +1,31 @@
-#### Hi there, I'm Ahmadreza Mozaffary 👋
+<h1 align="center">Hi 👋, I'm Ahmadreza Mozaffary</h1>
+<h3 align="center">A passionate Student🥳, Maybe a Front-end developer🤪, and Technology lover😎!</h3>
 
-### I'm a Student🥳, Maybe a Developer🤪, and Technology lover😎!
+- 🔭 I’m currently working on **Belfius Banking (Clone)**
 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning **JavaScript**
+
 - 🥅 2022 Goal: I wanna become a "junior" front-end developer
-- ⚡ Fun fact: I love to listen musics and watch coding live streams
 
-#### Connect with me 📲:
+- 💬 Ask me about **HTML, CSS, JavaScript**
 
-<!-- [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- 📫 How to reach me **am2002.de@gmail.com**
 
-<br />
+- 📄 Know about my experiences [https://www.linkedin.com/in/ahmadreza-mozaffary/](https://www.linkedin.com/in/ahmadreza-mozaffary/)
 
-#### Languages and Tools:
+- ⚡ Fun fact **I love to listen musics and watch coding live streams**
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][tech]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][tech]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][tech]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][tech]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][tech]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][tech]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][tech]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][tech]
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmadreza-mozaffary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmadreza-mozaffary/" height="30" width="40" /></a>
+<a href="https://instagram.com/ahmad_mozaffary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmad_mozaffary" height="30" width="40" /></a>
+</p>
 
-<br/>
-<br/>
+<h3 align="left">Languages and Tools:</h3>
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AhmadrezaMozaffary&show_icons=true&hide_border=true" />
-</details>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadrezamozaffary&show_icons=true&locale=en&layout=compact" alt="ahmadrezamozaffary" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadrezaMozaffary&layout=compact)](https://github.com/AhmadrezaMozaffary/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadrezamozaffary&show_icons=true&locale=en" alt="ahmadrezamozaffary" /></p>
 
-
-[tech]: #
-[instagram]: https://instagram.com/ahmad_mozaffary
-[linkedin]: https://linkedin.com/in/ahmadreza-mozaffary
