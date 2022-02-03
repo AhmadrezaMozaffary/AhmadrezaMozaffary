@@ -38,6 +38,8 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <!-- Javascript -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+ <!-- jQuery -->
+<img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="jQuery" width="40" height="40"/>
 <!-- Node Package Manager (NPM) -->
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="npmjs" width="40" height="40"/> </a>
 <!-- Postman -->
