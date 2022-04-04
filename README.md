@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmadreza Mozaffary</h1>
 <h3 align="center">A passionate Student🥳, Maybe a Front-end developer🤪, and Technology lover😎!</h3>
 
-- 🔭 I’m currently working on **Belfius Banking (Clone)** = Personal project
+- 🔭 I’m currently working on **Belfius Banking (Clone)** = Personal project ( #OpenToWork )
 
 - 🌱 I’m currently learning **Typescript**
 
