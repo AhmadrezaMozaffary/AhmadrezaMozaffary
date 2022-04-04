@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on **Belfius Banking (Clone)** = Personal project
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Typescript**
 
 - 🥅 2022 Goal: I wanna become a "junior" front-end developer
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, Typescript**
 
 - 📫 How to reach me **am2002.de@gmail.com**
 
-- 📄 Know about my experiences [LINKEDIN](https://www.linkedin.com/in/ahmadreza-mozaffary/)
+- 📄 Know about me [LINKEDIN](https://www.linkedin.com/in/ahmadreza-mozaffary/)
 
 - ⚡ Fun fact **I love to listen musics and watch coding live streams**
 
