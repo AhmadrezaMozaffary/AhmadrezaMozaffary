@@ -38,8 +38,22 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <!-- Javascript -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<!-- React -->
+   <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+        alt="react"
+        width="40"
+        height="40"
+      />
 <!-- Typescript -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+<!-- Redux -->
+     <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+        alt="redux"
+        width="40"
+        height="40"
+      />
 <!-- jQuery -->
 <img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="jQuery" width="40" height="40"/>
 <!-- Node Package Manager (NPM) -->
@@ -47,6 +61,21 @@
 <!-- Postman -->
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
  </p>
+ <!-- MySQL -->
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+        alt="mysql"
+        width="40"
+        height="40"
+      />
+ <!-- Postgres -->
+     <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+        alt="postgresql"
+        width="40"
+        height="40"
+      />
+ 
 
  <!-- Info -->
 <p>
