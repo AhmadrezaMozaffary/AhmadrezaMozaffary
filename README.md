@@ -7,7 +7,7 @@
 
 - 🥅 2022 Goal: I wanna become a "junior" front-end developer
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Typescript**
+- 💬 Ask me about **HTML, CSS, JavaScript, React JS**
 
 - 📫 How to reach me **am2002.de@gmail.com**
 
