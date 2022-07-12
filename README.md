@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Belfius Banking (Clone)** = Personal project ( #OpenToWork )
 
-- 🌱 I’m currently learning **React JS** ( Router )
+- 🌱 I’m currently learning **Next JS** 
 
 - 🥅 2022 Goal: I wanna become a "junior" front-end developer
 
