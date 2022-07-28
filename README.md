@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React JS**
 
-- 📫 How to reach me **am2002.de@gmail.com**
+- 📫 How to reach me **mozaffary.ahmadreza@gmail.com**
 
 - 📄 Know about me [LINKEDIN](https://www.linkedin.com/in/ahmadreza-mozaffary/)
 
