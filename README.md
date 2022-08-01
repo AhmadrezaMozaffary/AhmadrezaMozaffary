@@ -52,7 +52,6 @@
       width="40"
       height="40"
     />
- 
     <!-- Git -->
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
