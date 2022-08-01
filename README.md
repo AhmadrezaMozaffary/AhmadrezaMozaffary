@@ -22,13 +22,6 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
  <p align="left">
-    <!-- vscode -->
-    <img
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
-      alt="Visual Studio Code"
-      width="40"
-      height="40"
-    />
     <!-- HTML -->
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -59,13 +52,7 @@
       width="40"
       height="40"
     />
-    <!-- Figma -->
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="40"
-      height="40"
-    />
+ 
     <!-- Git -->
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -108,7 +95,25 @@
       width="40"
       height="40"
     />
-    <!-- MySQL -->
+  </p>
+  
+  <h3 align="left">Others:</h3>
+   <p align="left">
+    <!-- vscode -->
+    <img
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
+      alt="Visual Studio Code"
+      width="40"
+      height="40"
+    />
+      <!-- Figma -->
+    <img
+      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+      alt="figma"
+      width="40"
+      height="40"
+    />
+   <!-- MySQL -->
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql"
@@ -136,7 +141,8 @@
       width="40"
       height="40"
     />
-  </p>
+   </p>
+
 
 
  <!-- Info -->
