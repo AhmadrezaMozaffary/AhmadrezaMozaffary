@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmadreza Mozaffary</h1>
-<h3 align="center">A passionate Student🥳, Maybe a Front-end developer🤪, and Technology lover😎!</h3>
+<h3 align="center">A passionate Front-end developer, and Technology lover!</h3>
 
-- 🔭 I’m currently working on **Belfius Banking (Clone)** = Personal project ( #OpenToWork )
+- 🔭 I’m currently working 
 
 - 🌱 I’m learning **Front-End development** 
 
-- 🥅 2022 Goal: I wanna become a "junior" front-end developer
-
-- 💬 Ask me about **HTML, CSS, JavaScript, React JS**
+- 💬 Ask me about **HTML, CSS, JavaScript, React JS, Angular**
 
 - 📫 How to reach me **mozaffary.ahmadreza@gmail.com**
 
@@ -70,6 +68,13 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript"
+      width="40"
+      height="40"
+    />
+    <!-- Angular -->
+    <img
+      src="https://angular.io/assets/images/logos/angular/angular.svg"
+      alt="angular"
       width="40"
       height="40"
     />
