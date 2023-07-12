@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmadreza Mozaffary</h1>
 <h3 align="center">A passionate Front-end developer, and Technology lover!</h3>
 
-- 🔭 I’m currently working 
+- 🔭 I’m currently working as a Front-End developer at System Group ( Hamkaran System 🇮🇷 ) company
 
-- 🌱 I’m learning **Front-End development** 
+- 🌱 I’m learning **Back-End development** - .net & C#
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React JS, Angular**
 
