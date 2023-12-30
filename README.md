@@ -99,6 +99,13 @@
       width="40"
       height="40"
     />
+    <!-- C# -->
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+      alt="CSharp"
+      width="40"
+      height="40"
+    />
   </p>
   
   <h3 align="left">Others:</h3>
