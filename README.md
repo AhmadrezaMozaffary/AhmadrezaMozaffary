@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working as a Software developer at System Group ( Hamkaran System 🇮🇷 ) company  and  working on UTTM project which is currently available in my github projects :)
 
-- 🌱 I’m learning **Back-End related tools and topics**
+- 🌱 I’m working on **UTTM** project
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React JS, Angular**
+- 💬 Ask me about **HTML, CSS, JavaScript, React JS, Angular, C# and .Net**
 
 - 📫 How to reach me **mozaffary.ahmadreza@gmail.com**
 
